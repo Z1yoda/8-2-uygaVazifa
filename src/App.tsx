@@ -51,7 +51,7 @@ function App() {
                             name=''
                             id={'el_' }
                             // onChange={handleChange}
-                            checked={status === 'checked'}
+                            // checked={status === 'checked'}
                         />
                         <label
                             htmlFor={'el_' }
